@@ -7,7 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Laravel 8-CRUD App using Livewire
+## Laravel Livewire
+
+composer require livewire/livewire
 
 <img src="https://github.com/parasshah438/laravel-livewire-crud/blob/master/public/livewire.PNG">
 
