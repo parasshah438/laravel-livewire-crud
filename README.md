@@ -9,7 +9,7 @@
 
 ## Laravel Livewire
 
- Package
+ <b>Package</b>
  composer require livewire/livewire
 
 <img src="https://github.com/parasshah438/laravel-livewire-crud/blob/master/public/livewire.PNG">
